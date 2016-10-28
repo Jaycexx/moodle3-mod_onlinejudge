@@ -1,0 +1,1 @@
+<p>I am <?php echo $name; ?></p>
